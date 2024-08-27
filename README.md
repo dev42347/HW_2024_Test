@@ -1,5 +1,6 @@
 # HW_2024_Test
 Video of this gameplay can be viewd from the below link
+
 https://drive.google.com/file/d/1gnNZVPpWGWSlYfrubT2SllbNTzZj_Eyw/view?usp=sharing
 
 **Game Features:**
@@ -33,11 +34,11 @@ Pulpit Destroy Time: 2 seconds
 Pulpit Spawn Time: 0.5 seconds
 
 **Controls:**
-Move Left: Left Arrow Key or 'A'
-Move Right: Right Arrow Key or 'D'
-Move Up: Up Arrow Key or 'W'
-Move Down: Down Arrow Key or 'S'
-Start/Restart Game: Enter Key
+- Move Left: Left Arrow Key or 'A'
+- Move Right: Right Arrow Key or 'D'
+- Move Up: Up Arrow Key or 'W'
+- Move Down: Down Arrow Key or 'S'
+- Start/Restart Game: Enter Key
 
 **Game Screens**
 Start Screen: Welcome screen to start the game.
